@@ -1,8 +1,4 @@
-### Hi i'm Yamilla 👋
-
-I am an aspiring software developer and a fourth year computer science student at Toronto Metropoliton University.
-
-🌱 I'm interested in machine learning, AI and software development!
+### Yamilla
 
 ## You can reach me at:
 <div class="badge">
